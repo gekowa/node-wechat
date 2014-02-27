@@ -21,6 +21,7 @@
     "url": "https://github.com/gekowa/node-wechat/issues"
   },
   "dependencies": {
-    "xml2js": "~0.4.1"
+    "xml2js": "~0.4.1",
+    "underscore": "~1.6.0"
   }
 }

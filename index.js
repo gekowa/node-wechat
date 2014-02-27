@@ -1,1 +1,1 @@
-module.exports = require('./lib/wechatmp');
+module.exports = require('./lib/wechat');
